@@ -3,7 +3,7 @@
 #================================================================================================
 $reportName = "IntersightDIMMs"
 $date 		= Get-Date -Format "yyyy-MM-dd_hh-mm"
-$csvFile 	= "$env:userprofile\$ReportName.$date.csv"
+$csvFile 	= "$env:userprofile\Downloads\$ReportName.$date.csv"
 
 
 #================================================================================================
