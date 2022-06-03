@@ -21,3 +21,5 @@ $env:ApiKeyFilePath = "C:\SecretKey.txt" #Changeme
 
 ## Usage:
 .\dimm_report.ps1
+
+![image](https://user-images.githubusercontent.com/2009431/171932326-ac5caaf9-9246-4f24-a8a6-172a189054a5.png)
